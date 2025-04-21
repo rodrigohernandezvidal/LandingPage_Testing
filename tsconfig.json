@@ -1,0 +1,12 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    "types": ["react", "react-dom", "react-router-dom"],
+    "allowJs": true,
+    "checkJs": true
+  }
+}
